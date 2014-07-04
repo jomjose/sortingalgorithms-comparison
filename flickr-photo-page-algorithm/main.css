@@ -1,0 +1,11 @@
+.row {
+    display: table;
+}
+.photo {
+    display: table-cell;
+    border: 2px solid #FFF;
+    background: #DDD;
+    font: 13px Arial, sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
